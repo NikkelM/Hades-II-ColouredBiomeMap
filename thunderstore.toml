@@ -6,7 +6,7 @@ schemaVersion = "0.0.1"
 namespace = "NikkelM"
 name = "Coloured_Biome_Map"
 versionNumber = "1.0.0"
-description = "Replaces the biome map with a coloured version."
+description = "Replaces the biome map with a handcrafted coloured version."
 websiteUrl = "https://github.com/NikkelM/Hades-II-ColouredBiomeMap"
 containsNsfwContent = false
 

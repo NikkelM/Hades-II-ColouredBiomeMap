@@ -1,6 +1,6 @@
 # Coloured Biome Map
 
-Replaces the biome map with a coloured version.
+Replaces the biome map with a handcrafted coloured version.
 
 Artwork created by [u/Lazymanohelp](https://www.reddit.com/user/Lazymanohelp/) on Reddit, you can [find the original post with a high-res download link here](https://www.reddit.com/r/HadesTheGame/comments/1o6jiym/i_colored_the_biome_map/).
 
